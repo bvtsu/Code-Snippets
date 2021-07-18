@@ -1,1 +1,5 @@
 # Code-Snippets
+
+## Python
+
+## Bash
