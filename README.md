@@ -1,6 +1,6 @@
 # Code-Snippets
 
-For personal use to quickly grap code for recycled usage
+For personal use to quickly grab code for recycled usage
 
 ## Python
 ### HEK-Blue-Assay-to-Seaborn-graphs
