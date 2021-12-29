@@ -1,6 +1,6 @@
 import sys
-sys.path.append('/path/to/affirmation/src/Affirmations/')
-from Affirm import affirm
+sys.path.append('/Users/britsu/GitHub/affirmation/src/Affirmations/')
+from Affirmations import affirm
 
 @affirm
 def hello_world():
